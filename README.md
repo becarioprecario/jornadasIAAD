@@ -2,7 +2,7 @@
 
 6-7 de noviembre de 2025
 
-Salón de Grados
+Aula de Grados
 
 E.T.S. Ingeniería Industrial de Albacete, Universidad de Castilla-La Mancha, Ciudad Real
 
@@ -41,7 +41,7 @@ Ciudad Real ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas
 
 ## Entidades financiadoras
 
-La organizacion de estar jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
+La organización de estar jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
 
 * Universidad de Castilla-La Mancha.
 * E.T.S. de Ingeniería Industrial de Albacete (UCLM).
