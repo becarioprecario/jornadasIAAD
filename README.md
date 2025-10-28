@@ -22,6 +22,8 @@ Virgilio Gómez Rubio (E.T.S.I.I.-Albacete)
 
 La E.T.S. de Ingeniería Industrial de Albacete se encuentra en el campus principal de la Universidad de Castilla-La Mancha en Albacete.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4159.696319983481!2d-1.8585480231581228!3d38.9788278717068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd665f9d84eb1493%3A0x93a04604e9ffb1c2!2sEscuela%20T%C3%A9cnica%20Superior%20de%20Ingenier%C3%ADa%20Industrial!5e1!3m2!1ses!2ses!4v1761669331915!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## ¿Cómo llegar?
 
 La manera más sencilla de llegar a Albacete es en tren.
