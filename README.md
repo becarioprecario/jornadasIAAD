@@ -14,6 +14,10 @@ Irene García-Camacha Gutiérrez (E.T.S.I.I.-Ciudad Real)
 
 Virgilio Gómez Rubio (E.T.S.I.I.-Albacete)
 
+## Comité científico
+
+
+
 ## Programa
 
 ## Inscripción
