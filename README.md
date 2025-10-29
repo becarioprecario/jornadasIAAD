@@ -28,6 +28,10 @@ Licesio Rodríguez Aragón (Univesidad de Castilla-La Mancha)
 
 ## Programa
 
+A continuación, aparece un resumen del programa.
+
+![Programa de las jornadas.](/assets/img/programa_jornadas.png)
+
 ## Inscripción
 
 La inscripción es gratuita y puede realizarse en [este enlace](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=5rosxPRhjEmRB2qM9fAeVs5839mgfXBJsEuRedMWWSVUQTlYNlVONzBYWE02WlhYVDQzQzUwQ0FHNC4u).
