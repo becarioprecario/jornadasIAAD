@@ -38,7 +38,7 @@ La E.T.S. de Ingeniería Industrial de Albacete se encuentra en el campus princi
 
 ## ¿Cómo llegar?
 
-La manera más sencilla de llegar a Albacete es en tren.
+La manera más sencilla de llegar a Albacete es en tren. Si vienes en coche, el campus universitario tienes espacio de aparcamiento para visitantes.
 
 ## Alojamiento
 
