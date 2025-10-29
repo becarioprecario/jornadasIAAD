@@ -28,6 +28,8 @@ Licesio Rodríguez Aragón (Univesidad de Castilla-La Mancha)
 
 ## Inscripción
 
+La inscripción es gratuita y puede realizarse en [este enlace](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=5rosxPRhjEmRB2qM9fAeVs5839mgfXBJsEuRedMWWSVUQTlYNlVONzBYWE02WlhYVDQzQzUwQ0FHNC4u).
+
 ## Ubicación
 
 La E.T.S. de Ingeniería Industrial de Albacete se encuentra en el campus principal de la Universidad de Castilla-La Mancha en Albacete.
