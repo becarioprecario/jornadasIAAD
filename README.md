@@ -18,7 +18,9 @@ Virgilio Gómez Rubio (E.T.S.I.I.-Albacete)
 
 Llorenç Badiella Busquets (Universitat Autònoma de Barcelona)
 
-Martí Casals (Universitat de Vic)
+Jordi Cortés Martínez (Universitat Politècnica de Catalunya)
+
+Martí Casals (Instituto Nacional de Educación Física de Cataluña, Universitat de Barcelona y Universitat de Vic)
 
 Francisco Palmí Perales (Universitat de València)
 
