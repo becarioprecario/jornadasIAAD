@@ -16,7 +16,13 @@ Virgilio Gómez Rubio (E.T.S.I.I.-Albacete)
 
 ## Comité científico
 
+Llorenç Badiella Busquets (Universitat Autònoma de Barcelona)
 
+Martí Casals (Universitat de Vic)
+
+Francisco Palmí Perales (Universitat de València)
+
+Licesio Rodríguez Aragón (Univesidad de Castilla-La Mancha)
 
 ## Programa
 
