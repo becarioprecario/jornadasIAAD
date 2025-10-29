@@ -8,6 +8,8 @@ E.T.S. Ingeniería Industrial de Albacete, Universidad de Castilla-La Mancha, Ci
 
 ## Introducción
 
+Estas jornadas surgen como un segundo punto de encuentro sobre el análisis de datos deportivos tras las [Jornadas de Analítica Deportiva](https://becarioprecario.github.io/jornadasanaliticadeportiva/) celebradas en septiembre de 2025 en el campus de la Universidad de Castilla-La Mancha de Ciudad Real. Estas jornadas están organizadas por iniciativa del grupo de trabajo sobre *Análisis de datos deportivos* de la Sociedad Española de Estadística e Investigación Operativa (SEIO) y la Red de Investigación en *Sports Anlytics* (RISA) financiada por el Consejo Superior de Deportes.
+
 ## Comité organizador
 
 Irene García-Camacha Gutiérrez (E.T.S.I.I.-Ciudad Real)
