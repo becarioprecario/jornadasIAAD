@@ -2,7 +2,7 @@
 
 6-7 de noviembre de 2025
 
-Salón de Grados
+Aula de Grados
 
 E.T.S. Ingeniería Industrial de Albacete, Universidad de Castilla-La Mancha, Ciudad Real
 
