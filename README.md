@@ -8,7 +8,7 @@ E.T.S. Ingeniería Industrial de Albacete, Universidad de Castilla-La Mancha, Ci
 
 ## Introducción
 
-Estas jornadas surgen como un segundo punto de encuentro sobre el análisis de datos deportivos tras las [Jornadas de Analítica Deportiva](https://becarioprecario.github.io/jornadasanaliticadeportiva/) celebradas en septiembre de 2025 en el campus de la Universidad de Castilla-La Mancha de Ciudad Real. Estas jornadas están organizadas por iniciativa del grupo de trabajo sobre *Análisis de datos deportivos* de la Sociedad Española de Estadística e Investigación Operativa (SEIO) y la Red de Investigación en *Sports Anlytics* (RISA) financiada por el Consejo Superior de Deportes.
+Estas jornadas son un segundo punto de encuentro sobre el análisis de datos deportivos tras las [Jornadas de Analítica Deportiva](https://becarioprecario.github.io/jornadasanaliticadeportiva/) celebradas en septiembre de 2025 en el campus de la Universidad de Castilla-La Mancha de Ciudad Real. Estas jornadas están organizadas por iniciativa del grupo de trabajo sobre *Analítica deportiva* de la Sociedad Española de Estadística e Investigación Operativa (SEIO) y la Red de Investigación en *Sports Anlytics* (RISA) financiada por el Consejo Superior de Deportes.
 
 ## Comité organizador
 
@@ -50,14 +50,14 @@ La manera más sencilla de llegar a Albacete es en tren. Si vienes en coche, el 
 
 ## Alojamiento
 
-Ciudad Real ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas opciones son:
+Albacete ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas opciones son:
 
 * [Hotel Universidad](https://www.hoteluniversidad.com).
 * [Hotel Los Llanos](https://www.sercotelhoteles.com/es/hotel-los-llanos).
 
 ## Entidades financiadoras
 
-La organización de estar jornadas ha sido posbile gracias al apoyo de las siguientes instituciones:
+La organización de estar jornadas ha sido posible gracias al apoyo de las siguientes instituciones:
 
 * Universidad de Castilla-La Mancha.
 * E.T.S. de Ingeniería Industrial de Albacete (UCLM).
