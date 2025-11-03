@@ -10,23 +10,7 @@ E.T.S. Ingeniería Industrial de Albacete, Universidad de Castilla-La Mancha, Ci
 
 Estas jornadas son un segundo punto de encuentro sobre el análisis de datos deportivos tras las [Jornadas de Analítica Deportiva](https://becarioprecario.github.io/jornadasanaliticadeportiva/) celebradas en septiembre de 2025 en el campus de la Universidad de Castilla-La Mancha de Ciudad Real. Estas jornadas están organizadas por iniciativa del grupo de trabajo sobre *Analítica deportiva* de la Sociedad Española de Estadística e Investigación Operativa (SEIO) y la Red de Investigación en *Sports Anlytics* (RISA) financiada por el Consejo Superior de Deportes.
 
-## Comité organizador
 
-Irene García-Camacha Gutiérrez (E.T.S.I.I.-Ciudad Real)
-
-Virgilio Gómez Rubio (E.T.S.I.I.-Albacete)
-
-## Comité científico
-
-Llorenç Badiella Busquets (Universitat Autònoma de Barcelona)
-
-Jordi Cortés Martínez (Universitat Politècnica de Catalunya)
-
-Martí Casals (Instituto Nacional de Educación Física de Cataluña, Universitat de Barcelona y Universitat de Vic)
-
-Francisco Palmí Perales (Universitat de València)
-
-Licesio Rodríguez Aragón (Univesidad de Castilla-La Mancha)
 
 ## Programa
 
@@ -61,6 +45,24 @@ Albacete ofrece diversas opciones en cuanto a alojamiento se refiere. Algunas op
 
 * [Hotel Universidad](https://www.hoteluniversidad.com).
 * [Hotel Los Llanos](https://www.sercotelhoteles.com/es/hotel-los-llanos).
+
+## Comité organizador
+
+Irene García-Camacha Gutiérrez (E.T.S.I.I.-Ciudad Real)
+
+Virgilio Gómez Rubio (E.T.S.I.I.-Albacete)
+
+## Comité científico
+
+Llorenç Badiella Busquets (Universitat Autònoma de Barcelona)
+
+Jordi Cortés Martínez (Universitat Politècnica de Catalunya)
+
+Martí Casals (Instituto Nacional de Educación Física de Cataluña, Universitat de Barcelona y Universitat de Vic)
+
+Francisco Palmí Perales (Universitat de València)
+
+Licesio Rodríguez Aragón (Univesidad de Castilla-La Mancha)
 
 ## Entidades financiadoras
 
