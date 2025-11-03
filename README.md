@@ -19,7 +19,8 @@ Las jornadas podrán seguirse on-line a través de estos enlaces:
 * [Jueves](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDg2ZDgyZDYtMzhjYi00YzBmLWIxNmEtN2U2M2Q4NWRlODEw%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22d9df7cce-7da0-4970-b04b-9179d3165925%22%7d)
 
 * [Viernes](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWU4ODZiZGUtZWQ1Mi00ODE1LWJmOWItM2M1Yzg2OTY4ZjBk%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22d9df7cce-7da0-4970-b04b-9179d3165925%22%7d)
-* 
+
+  
 A continuación, aparece un resumen del programa.
 
 ![Programa de las jornadas.](/assets/img/programa_jornadas.png)
