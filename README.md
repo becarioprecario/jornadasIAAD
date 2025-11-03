@@ -4,7 +4,7 @@
 
 Aula de Grados
 
-E.T.S. Ingeniería Industrial de Albacete, Universidad de Castilla-La Mancha, Ciudad Real
+E.T.S. Ingeniería Industrial de Albacete, Universidad de Castilla-La Mancha, Albacete
 
 ## Introducción
 
